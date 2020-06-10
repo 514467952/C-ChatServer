@@ -1,0 +1,2 @@
+/home/chen/gitHub/c++Chat/build/src/client/CMakeFiles/ChatClient.dir
+/home/chen/gitHub/c++Chat/build/src/server/CMakeFiles/ChatServer.dir
